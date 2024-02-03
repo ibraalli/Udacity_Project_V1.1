@@ -11,3 +11,5 @@ Question 2: Can we predict a developer's job satisfaction in their continent Con
 Question 3: Can we predict a developer's job satisfaction in their continent Considering Professional, Continent, Expected Salary, Salary, Hours Per Week, Career Satisfaction, Job Seeking Status, Assess Job Compensation?
 # Blog
 The insightfill and detailed results are well unpacked in the blog post - https://medium.com/@ibraalli06/analyzing-developer-trends-across-continents-with-stack-overflow-survey-data-2017-72862fcc5c47 
+# Credit
+Dataset used is downloaded from https://www.kaggle.com/datasets/stackoverflow/so-survey-2017
