@@ -1,2 +1,3 @@
 # Analyzing Developer Trends Across Continents with Stack Overflow Survey Data 2017
 # Used Libraries
+### This Python project enhances its CRISP DM (Cross-Industry Standard Process for Data Mining) functionality by integrating NumPy, Pandas, Matplotlib, and Seaborn. Utilizing NumPy for numerical tasks, Pandas for managing structured data, Matplotlib for visual representation, and Seaborn for advanced statistical graphics, the project systematically examines a dataset. The workflow encompasses data loading, cleaning, and insightful visualizations, offering a thorough comprehension of patterns and trends. The amalgamation of these libraries streamlines and fortifies the CRISP DM process, ultimately aiding in well-informed decision-making
